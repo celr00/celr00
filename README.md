@@ -1,3 +1,3 @@
 - Hi, my name is Carlos Enrique Lozada Rodríguez student of the Univeridad de Monterrey (UDEM)
-- I'm currently learing how to work with APIs with Python and taking a course of web development in JavaScript
+- I'm currently learing how to work with APIs with Python and taking a course of web development
 - If there's any oportunity for me to help out with your proyects, please contact me at ce.lozada@icloud.com
