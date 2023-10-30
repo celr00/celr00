@@ -22,17 +22,14 @@ I am a passionate and motivated Software Engineering student, eager to learn and
 
 ## Projects
 
-- **Project 1: [Project Name]**
-  - Description: [Briefly describe the project, its purpose, and your role in it]
-  - Technologies Used: [List the technologies or tools used]
-  - [Link to the project (if it's hosted online or on GitHub)]
+- **Project 1: Rewards Web Application**
+  - Objetive: This project's goal was to creat a web applicacion that allowed Mint Cargo (a logistics company) to reward its customers payments with point that could be exchanged for different prices.
+  - What I learened: CRUD methods using Flask and MySQL, Flask sessions, environment variables, use of cache.
+  - Technologies Used: SASS, GULP, Flask
 
-- **Project 2: [Project Name]**
-  - Description: [Briefly describe the project, its purpose, and your role in it]
-  - Technologies Used: [List the technologies or tools used]
-  - [Link to the project (if it's hosted online or on GitHub)]
-
-- [Add more projects as necessary]
+- **Project 2: Pricing Web Application**
+  - Objetive: To creat a web applicacion that allows Mint Cargo's pricing employees to quote a shipment with multiple carriers at a time.
+  - Technologies Used: Flask and MySQL, Flask sessions, API
 
 ## Certifications
 
