@@ -2,13 +2,13 @@
 
 ## About Me
 
-I am a passionate and motivated Software Engineering student, eager to learn and contribute to the world of technology. Currently pursuing a degree in Software Engineering, I have a strong foundation in programming and a deep interest in various software development domains.
+I am a passionate and motivated Software Engineer, eager to keep learning and contribute to the world of technology. I have a strong foundation in software development and a deep interest in various software development domains.
 
 ## Education
 
 - **Bachelor of Science in Software Engineering**
   - Universidad de Monterrey (UDEM), [Nuevo León, México]
-  - Expected Graduation Date: December 2024
+  - Graduation Date: December 2024
 
 ## Skills
 
